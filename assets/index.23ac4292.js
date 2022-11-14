@@ -1,0 +1,1 @@
+import{e,o as t,c as n}from"./index.85b7e2e5.js";const o={style:{"text-align":"center","line-height":"200px"}},c=e({name:"NotFound"}),i=e({...c,setup(s){return(_,a)=>(t(),n("div",o,"404"))}});export{i as default};
